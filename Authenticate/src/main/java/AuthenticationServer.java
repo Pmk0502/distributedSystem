@@ -56,8 +56,8 @@ public class AuthenticationServer {
         Predicate<String> predicate = s -> s.equals(clientInfos.toString());
         Path path = Paths.get(this.AUTH_FILE_PATH);
         try(Stream<String> stream = Files.lines(path)){
-            isPresentOrNot =  stream.filter(line -> line.contains(client.getPassword()))
-                                    .allMatch(predicate);
+            isPresentOrNot =  stream.filter(line -> line.contains(clientInfos.toString()))
+                                    .anyMatch(predicate);
         } catch (IOException e) {
             e.printStackTrace();
         }
