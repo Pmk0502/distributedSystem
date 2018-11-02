@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Authenticate" />
-        <module name="Calculator" />
+        <module name="Computing" />
         <module name="loadBalancer" />
         <module name="Shared" />
       </profile>

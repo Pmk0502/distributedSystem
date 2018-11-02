@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdf03a3b-2e39-4d4f-9699-10805db2f2e9" name="Default Changelist" comment="authentication module almost done">
+    <list default="true" id="bdf03a3b-2e39-4d4f-9699-10805db2f2e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Authenticate/src/main/java/AuthenticationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Authenticate/src/main/java/AuthenticationServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Authenticate/src/test/java/AuthenticationServerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Authenticate/src/test/java/AuthenticationServerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/src/main/java/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/src/main/java/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/src/main/java/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shared/src/main/java/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loadBalancer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loadBalancer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,14 +71,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="5687" />
-          <entry key="txt" value="106" />
+          <entry key="txt" value="246" />
           <entry key="xml" value="570" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="5687" />
-          <entry key="PLAIN_TEXT" value="106" />
+          <entry key="PLAIN_TEXT" value="246" />
           <entry key="XML" value="570" />
         </counts>
       </usages-collector>
@@ -115,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calculator/src/main/java/ComputingServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="268">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#304#305#0" expanded="true" />
@@ -153,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/Calculator/src/test/java/ComputingServerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -279,50 +272,6 @@
               <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Shared" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Shared" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Shared" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Shared" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -382,7 +331,7 @@
       </method>
     </configuration>
     <configuration name="ComputingServerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Calculator" />
+      <module name="Computing" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ComputingServerTest" />
       <method v="2">
@@ -390,7 +339,7 @@
       </method>
     </configuration>
     <configuration name="ComputingServerTest.testAllocateResource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Calculator" />
+      <module name="Computing" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ComputingServerTest" />
       <option name="METHOD_NAME" value="testAllocateResource" />
@@ -400,7 +349,7 @@
       </method>
     </configuration>
     <configuration name="ComputingServerTest.testComputeTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Calculator" />
+      <module name="Computing" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ComputingServerTest" />
       <option name="METHOD_NAME" value="testComputeTask" />
@@ -546,7 +495,7 @@
       <workItem from="1541008813033" duration="1434000" />
       <workItem from="1541020622904" duration="1174000" />
       <workItem from="1541023865470" duration="9247000" />
-      <workItem from="1541116041405" duration="23024000" />
+      <workItem from="1541116041405" duration="23333000" />
     </task>
     <task id="LOCAL-00001" summary="authentication module almost done">
       <created>1541033288696</created>
@@ -562,7 +511,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541033542133</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[Module Computing] : Server computeTask() method implementation well tested.">
+      <created>1541196303412</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541196303412</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -598,13 +554,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34879000" />
+    <option name="totallyTimeSpent" value="35188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -612,7 +567,7 @@
       <window_info anchor="bottom" id="Inspection Results" weight="0.3285968" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3374778" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3374778" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39609236" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -639,7 +594,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="authentication module almost done" />
-    <option name="LAST_COMMIT_MESSAGE" value="authentication module almost done" />
+    <MESSAGE value="[Module Computing] : Server computeTask() method implementation well tested." />
+    <option name="LAST_COMMIT_MESSAGE" value="[Module Computing] : Server computeTask() method implementation well tested." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Calculator/pom.xml">
@@ -784,7 +740,7 @@
     <entry file="file://$PROJECT_DIR$/Calculator/src/test/java/ComputingServerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -807,8 +763,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Calculator/src/main/java/ComputingServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="268">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#304#305#0" expanded="true" />
