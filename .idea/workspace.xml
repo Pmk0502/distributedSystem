@@ -105,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Calculator/src/main/java/ComputingServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="-398">
+              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#304#305#0" expanded="true" />
@@ -142,11 +142,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calculator/src/test/java/ComputingServerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+            <state relative-caret-position="20">
+              <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -226,8 +226,8 @@
         <option value="$PROJECT_DIR$/Shared/src/main/java/Operation.java" />
         <option value="$PROJECT_DIR$/Shared/src/main/java/Task.java" />
         <option value="$PROJECT_DIR$/Shared/src/main/java/ResultOfTaskComputing.java" />
-        <option value="$PROJECT_DIR$/Calculator/src/test/java/ComputingServerTest.java" />
         <option value="$PROJECT_DIR$/Calculator/src/main/java/ComputingServer.java" />
+        <option value="$PROJECT_DIR$/Calculator/src/test/java/ComputingServerTest.java" />
       </list>
     </option>
   </component>
@@ -271,6 +271,32 @@
             <path>
               <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="distributedSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="distributedSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -495,7 +521,7 @@
       <workItem from="1541008813033" duration="1434000" />
       <workItem from="1541020622904" duration="1174000" />
       <workItem from="1541023865470" duration="9247000" />
-      <workItem from="1541116041405" duration="23333000" />
+      <workItem from="1541116041405" duration="23406000" />
     </task>
     <task id="LOCAL-00001" summary="authentication module almost done">
       <created>1541033288696</created>
@@ -518,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541196303412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[Module Computing] : Server computeTask() method implementation well tested.">
+      <created>1541196500486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541196500486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -554,10 +587,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35188000" />
+    <option name="totallyTimeSpent" value="35261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -737,13 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator/src/test/java/ComputingServerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="43" column="12" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Shared/src/main/java/ResultOfTaskComputing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -763,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Calculator/src/main/java/ComputingServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="-398">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#304#305#0" expanded="true" />
@@ -774,6 +801,13 @@
             <element signature="e#2160#2161#0" expanded="true" />
             <element signature="e#2196#2197#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculator/src/test/java/ComputingServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
         </state>
       </provider>
     </entry>
